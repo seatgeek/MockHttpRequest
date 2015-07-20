@@ -1,7 +1,7 @@
 {
     "name": "MockHttpRequest",
     "description": "A mock implementation of XMLHttpRequest for unit testing",
-    "version": "1.0",
+    "version": "1.0.0",
     "keywords": ["testing", "unit", "mock", "ajax", "http", "request"],
     "maintainers": [{
         "name": "Philipp von Weitershausen",
